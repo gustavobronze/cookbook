@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Receitas da Nossa Casa"
-  author: "Autor"
+  author: "Gustavo Bronze & Magno Severino"
   date: "22/12/2025"
   chapters:
     - index.qmd
@@ -13,6 +13,7 @@ book:
     - 04_sobremesas.qmd
     - 05_bebidas.qmd
     - 06_fermentados.qmd
+    - 07_temperos.qmd
 
 format:
   html:
