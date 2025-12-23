@@ -4,7 +4,7 @@ title: "Sobremesas"
 
 ## Pudim de Leite
 
-### Ingredientes
+### Ingredientes {.unnumbered}
 - 1 lata de leite condensado (395 g)
 - 2 medidas (da lata) de Leite
 - 3 ovos
