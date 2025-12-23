@@ -30,25 +30,40 @@ title: "Fermentados"
 
 ## Kimchi
 
-### Ingredientes {.unnumbered}
+### Ingredientes (1º Preparo) {.unnumbered}
 
 - 1 acelga
 - 1/2 xícara de sal
 
+### Ingredientes (2º Preparo) {.unnumbered}
 - 1 nabo pequeno
 - 1 colher de sopa de açúcar e sal
 
+### Ingredientes (3º Preparo) {.unnumbered}
 - cebolinha, picada grande
 
+### Ingredientes (4º Preparo) {.unnumbered}
 - 1 maça picada
 - 1 cebola picada 
 - 1 colher de sopa cheia de alho picado
 - 1 colher de chá de gengibre picado
 - 1 colher de sopa de açúcar
 - 3 colheres de sopa de molho de peixe
-- 1/2 colher de copa de sal
+- 1/2 colher de sopa de sal
 - 4 colher de sopa de pimenta coreana
 - água
+
+### Modo de preparo {.unnumbered}
+1. Corte a acelga em pedaços grandes. Adicione todo o sal, espalhando bem por todos os pedaços. Deixe descansar por 1 hora. Em seguida, lave bem para retirar o excesso de sal e deixe escorrer por mais 1 hora, até eliminar o máximo de água possível.
+
+2. Corte o nabo em pedaços médios. Misture com o sal e o açúcar e deixe descansar por 1 hora, para que solte todo o excesso de água. Após esse tempo, descarte o líquido liberado.
+
+3. Corte a cebolinha em pedaços grandes e reserve.
+
+4. Em um processador ou liquidificador, coloque todos os ingredientes do 4º preparo e bata até formar uma pasta homogênea.
+
+5. Com a acelga já bem escorrida, junte o nabo e misture. Espalhe a pasta de pimenta por todos os pedaços, garantindo que fiquem bem envolvidos. Acrescente a cebolinha, misture novamente e transfira para um pote hermético previamente esterilizado.
+Deixe fermentar fora da geladeira por 24 horas. Após esse período, conserve na geladeira.
 
 ![](img/kimchi.jpeg)
 

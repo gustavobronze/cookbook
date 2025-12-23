@@ -1,3 +1,16 @@
 ---
 title: "Sobremesas"
 ---
+
+## Pudim de Leite
+
+### Ingredientes
+- 1 lata de leite condensado (395 g)
+- 2 medidas (da lata) de Leite
+- 3 ovos
+
+### Modo de preparo {.unnumbered}
+1. Derreta o açúcar até ficar dourado dentro da própria forma.
+2. Em um liquidificador, acrescente o leite condensado, o leite e os ovos. Bata até obter uma consistência homogênea e despeje na forma.
+3. Cubra com papel-alumínio e leve ao forno médio (180°C), em banho-maria, por cerca de 2 horas.
+4. Depois de frio, leve o pudim de leite condensado para gelar por cerca de 6 horas.
