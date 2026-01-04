@@ -1,4 +1,4 @@
-name: Render Quarto Book
+name: Render Quarto Book (HTML)
 
 on:
   push:
@@ -14,16 +14,16 @@ jobs:
       id-token: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render book
-        run: quarto render
+      - name: Render book (HTML only)
+        run: quarto render --to html
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
