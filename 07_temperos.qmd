@@ -43,8 +43,7 @@ format: html
 3. Prove e ajuste o sal, o açúcar ou o vinagre, conforme sua preferência. Se o molho estiver muito espesso, acrescente água aos poucos até atingir a consistência desejada.
 4. Deixe esfriar e armazene em um pote bem fechado na geladeira. O molho conserva-se por até duas semanas.
 
-::: {.callout-tip}
-## Dicas e variações
+::: {.callout-tip title="Dicas e variações"}
 - Para um sabor mais profundo, a cebola e o alho podem ser refogados antes de serem processados.
 - Após bater, o molho pode ser levado ao fogo baixo por alguns minutos para engrossar e intensificar os sabores.
 - O coentro é opcional e pode ser omitido sem prejuízo da receita.
