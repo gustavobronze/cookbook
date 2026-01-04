@@ -23,7 +23,7 @@ format: html
 - 3 a 4 pimentões vermelhos, assados e sem pele
 - 1 cebola roxa média, picada
 - 3 a 4 dentes de alho, picados
-- 1 a 4 pimentas vermelhas, picadas (ajuste conforme o nível de ardência desejado)
+- 1 a 4 pimentas malaguetas, picadas (ajuste conforme o nível de ardência desejado)
 - 1/4 de xícara de suco de limão
 - 1/4 de xícara de vinagre de maçã
 - 2 colheres de sopa de páprica defumada
@@ -46,6 +46,6 @@ format: html
 ::: {.callout-tip title="Dicas e variações"}
 - Para um sabor mais profundo, a cebola e o alho podem ser refogados antes de serem processados.
 - Após bater, o molho pode ser levado ao fogo baixo por alguns minutos para engrossar e intensificar os sabores.
-- O coentro é opcional e pode ser omitido sem prejuízo da receita.
-- A versão tradicional utiliza pimentas piri-piri; sempre que possível, use-as para maior fidelidade ao molho original.
+- Armazenado em recipiente de vidro bem fechado, esterilizado e refrigerado, o molho dura cerca de **2 semanas**.
+
 :::
