@@ -14,6 +14,7 @@ book:
     - 05_bebidas.qmd
     - 06_fermentados.qmd
     - 07_temperos.qmd
+    - 08_molhos.qmd
 
 format:
   html:
