@@ -2,3 +2,15 @@
 title: "Molhos"
 format: html
 ---
+## Maionese
+
+### Ingredientes {.unnumbered}
+- 1 Ovo
+- 1 Gema
+- Óleo
+- Vinagre
+- 1 Dente de Alho
+
+### Modo de preparo {.unnumbered}
+1. No liquidificador, coloque o ovo, a gema, um pouco de vinagre e o dente de alho. Bata bem até obter uma mistura homogênea.
+2. Com o liquidificador ligado, vá acrescentando o óleo aos poucos, em fio, até atingir a consistência de maionese.
