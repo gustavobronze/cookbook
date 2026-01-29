@@ -14,3 +14,8 @@ format: html
 ### Modo de preparo {.unnumbered}
 1. No liquidificador, coloque o ovo, a gema, um pouco de vinagre e o dente de alho. Bata bem até obter uma mistura homogênea.
 2. Com o liquidificador ligado, vá acrescentando o óleo aos poucos, em fio, até atingir a consistência de maionese.
+
+::: {.callout-tip title="Dicas e variações"}
+- Com essa mesma base de maionese, é possível fazer variaçãos.
+- Maionese de Gochujang: Acrescente uma ou duas colheres de sopa de Gochujang, e uma de mel, bater até tudo ficar homogêneo.
+:::
