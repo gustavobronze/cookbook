@@ -15,6 +15,7 @@ book:
     - 06_fermentados.qmd
     - 07_temperos.qmd
     - 08_molhos.qmd
+    - 09_sushi.qmd
 
 format:
   html:
