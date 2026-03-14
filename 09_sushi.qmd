@@ -1,4 +1,8 @@
 
+---
+title: "Sushi"
+---
+
 ## Arroz de Sushi
 
 ### Ingredientes {.unnumbered}
