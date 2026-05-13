@@ -9,6 +9,7 @@ title: "Sushi"
 - 300g de Arroz
 - 380ml de água
 - 80 ml molho su (60ml de vinagre de arroz, 2 colheres de açucar, 1 colher de chá rasa de sal)
+- 80 ml molho su (25ml de vinagre de arroz preto (Kurozu), 35ml de vinagre de maçã, 1 colhere de sopa de açucar, 1 colher de sopa de sake, 2 colheres de chá de sal, 1 pedaço de alga kombu)
 
 ### Modo de preparo {.unnumbered}
 1. Lavar o arroz: Coloque o arroz em uma tigela, adicione um pouco de água e massageie delicadamente os grãos para liberar o excesso de amido.
