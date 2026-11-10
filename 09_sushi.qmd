@@ -6,18 +6,17 @@ title: "Sushi"
 ## Arroz de Sushi
 
 ### Ingredientes {.unnumbered}
-- 300g de arroz
-- 360ml de água
-- 80 ml molho su (60ml de vinagre de arroz, 2 colheres de açucar, 1 colher de chá rasa de sal)
-- 80 ml molho su (25ml de vinagre de arroz preto (Kurozu), 35ml de vinagre de maçã, 1 colhere de sopa de açucar, 1 colher de sopa de sake, 2 colheres de chá de sal, 1 pedaço de alga kombu)
+- 400g de arroz
+- 480ml de água (20% a mais da quantidade de arroz)
+- 130 ml molho su (1/3 da quantidade de arroz)
 
 ### Modo de preparo {.unnumbered}
 1. Lavar o arroz: Coloque o arroz em uma tigela, adicione um pouco de água e massageie delicadamente os grãos para liberar o excesso de amido.
 2. Enxaguar: Descarte a água e repita a lavagem de 3 a 4 vezes, até que a água fique mais clara.
-3. Iniciar o cozimento: Coloque o arroz na panela com a quantidade de água adequada, tampe e leve ao fogo mais baixo possível.
+3. Iniciar o cozimento: Coloque o arroz na panela com a quantidade de água adequada, tampe e leve ao fogo.
 Não retire a tampa durante todo o cozimento.
-4. Primeira etapa do cozimento: Deixe cozinhar por 15 minutos, até começar a ferver.
-5. Segunda etapa do cozimento: Coloque um peso sobre a tampa da panela e deixe cozinhar por mais 15 minutos.
+4. Primeira etapa do cozimento: Deixe cozinhar por 7 a 10 minutos, até começar a ferver.
+5. Segunda etapa do cozimento: Coloque um peso sobre a tampa da panela e deixe cozinhar por mais 15 minutos, no fogo baixo.
 6. Finalização: Retire a tampa para liberar o vapor e eliminar o excesso de água.
 7. Descanso: Deixe o arroz descansar por 20 minutos antes de servir.
 8. Molho: Coloque o arroz em uma tijela grande e despeje o molho su.
