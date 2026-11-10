@@ -33,6 +33,10 @@ Não retire a tampa durante todo o cozimento.
 1. Em uma tigela, misture todos os ingredientes e mexa até o açúcar dissolver completamente. Se preferir acelerar o processo, leve a mistura a uma panela em fogo baixo, mexendo de vez em quando, apenas até o açúcar dissolver. Não deixe ferver.
 2. Deixe esfriar por completo antes de usar ou armazenar.
 
+::: {.callout-note}
+O su pode ser armazenado por bastante tempo na geladeira. Guarde-o em um frasco de vidro bem fechado, de preferência esterilizado, e mantenha-o refrigerado. Por conter vinagre, açúcar e sal, que são conservantes naturais, ele se mantém bem por semanas, e muitas vezes por meses, sem perder a qualidade.
+:::
+
 ## Molho Su (Estilo Kansai, Osaka)
 
 ### Ingredientes {.unnumbered}
@@ -45,6 +49,10 @@ Não retire a tampa durante todo o cozimento.
 ### Modo de preparo {.unnumbered}
 1. Em uma tigela, misture todos os ingredientes e mexa até o açúcar dissolver completamente. Se preferir acelerar o processo, leve a mistura a uma panela em fogo baixo, mexendo de vez em quando, apenas até o açúcar dissolver. Não deixe ferver.
 2. Deixe esfriar por completo antes de usar ou armazenar.
+
+::: {.callout-note}
+O su pode ser armazenado por bastante tempo na geladeira. Guarde-o em um frasco de vidro bem fechado, de preferência esterilizado, e mantenha-o refrigerado. Por conter vinagre, açúcar e sal, que são conservantes naturais, ele se mantém bem por semanas, e muitas vezes por meses, sem perder a qualidade.
+:::
 
 ## Sunomono
 
