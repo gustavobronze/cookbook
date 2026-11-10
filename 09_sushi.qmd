@@ -6,8 +6,8 @@ title: "Sushi"
 ## Arroz de Sushi
 
 ### Ingredientes {.unnumbered}
-- 300g de Arroz
-- 380ml de água
+- 300g de arroz
+- 360ml de água
 - 80 ml molho su (60ml de vinagre de arroz, 2 colheres de açucar, 1 colher de chá rasa de sal)
 - 80 ml molho su (25ml de vinagre de arroz preto (Kurozu), 35ml de vinagre de maçã, 1 colhere de sopa de açucar, 1 colher de sopa de sake, 2 colheres de chá de sal, 1 pedaço de alga kombu)
 
@@ -21,6 +21,30 @@ Não retire a tampa durante todo o cozimento.
 6. Finalização: Retire a tampa para liberar o vapor e eliminar o excesso de água.
 7. Descanso: Deixe o arroz descansar por 20 minutos antes de servir.
 8. Molho: Coloque o arroz em uma tijela grande e despeje o molho su.
+
+## Molho Su (Estilo Kanto, Tóquio)
+
+### Ingredientes {.unnumbered}
+- 340ml de vinagre de arroz
+- 160g de açúcar demerara
+- 40g de sal
+
+### Modo de preparo {.unnumbered}
+1. Em uma tigela, misture todos os ingredientes e mexa até o açúcar dissolver completamente. Se preferir acelerar o processo, leve a mistura a uma panela em fogo baixo, mexendo de vez em quando, apenas até o açúcar dissolver. Não deixe ferver.
+2. Deixe esfriar por completo antes de usar ou armazenar.
+
+## Molho Su (Estilo Kansai, Osaka)
+
+### Ingredientes {.unnumbered}
+- 340ml de vinagre de arroz
+- 160ml de mirin
+- 2 pedaços de alga kombu
+- 160g de açúcar demerara
+- 40g de sal
+
+### Modo de preparo {.unnumbered}
+1. Em uma tigela, misture todos os ingredientes e mexa até o açúcar dissolver completamente. Se preferir acelerar o processo, leve a mistura a uma panela em fogo baixo, mexendo de vez em quando, apenas até o açúcar dissolver. Não deixe ferver.
+2. Deixe esfriar por completo antes de usar ou armazenar.
 
 ## Sunomono
 
